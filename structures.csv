@@ -1,0 +1,1422 @@
+ID,ARA ROI,Global area,Global area ID
+1,A13,Interbrain,4
+2,AAA,Cerebral Nuclei,3
+3,ab,fiber tracts,7
+4,ACA,Isocortex,1
+5,ACAd,Isocortex,1
+6,ACAd_1,Isocortex,1
+7,ACAd_2/3,Isocortex,1
+8,ACAd_5,Isocortex,1
+9,ACAd_6,Isocortex,1
+10,ACAd_6a,Isocortex,1
+11,ACAd_6b,Isocortex,1
+12,ACAv,Isocortex,1
+13,ACAv_1,Isocortex,1
+14,ACAv_2/3,Isocortex,1
+15,ACAv_5,Isocortex,1
+16,ACAv_6a,Isocortex,1
+17,ACAv_6b,Isocortex,1
+18,ACB,Cerebral Nuclei,3
+19,aco,fiber tracts,7
+20,act,fiber tracts,7
+21,ACVI,Hindbrain,6
+22,ACVII,Hindbrain,6
+23,AD,Interbrain,4
+24,ADP,Interbrain,4
+25,AHA,Interbrain,4
+26,AHN,Interbrain,4
+27,AHN_a,Interbrain,4
+28,AHN_c,Interbrain,4
+29,AHN_p,Interbrain,4
+30,AHNa,Interbrain,4
+31,AHNc,Interbrain,4
+32,AHNd,Interbrain,4
+33,AHNp,Interbrain,4
+34,AI,Isocortex,1
+35,AId,Isocortex,1
+36,AId_1,Isocortex,1
+37,AId_2/3,Isocortex,1
+38,AId_5,Isocortex,1
+39,AId_6,Isocortex,1
+40,AId_6a,Isocortex,1
+41,AId_6b,Isocortex,1
+42,AIp,Isocortex,1
+43,AIp_1,Isocortex,1
+44,AIp_2/3,Isocortex,1
+45,AIp_5,Isocortex,1
+46,AIp_6a,Isocortex,1
+47,AIp_6b,Isocortex,1
+48,AIv,Isocortex,1
+49,AIv_1,Isocortex,1
+50,AIv_2/3,Isocortex,1
+51,AIv_5,Isocortex,1
+52,AIv_6a,Isocortex,1
+53,AIv_6b,Isocortex,1
+54,alv,fiber tracts,7
+55,AM,Interbrain,4
+56,AM_d,Interbrain,4
+57,AM_v,Interbrain,4
+58,AMB,Hindbrain,6
+59,AMB_d,Hindbrain,6
+60,AMB_v,Hindbrain,6
+61,AMBd,Hindbrain,6
+62,AMBv,Hindbrain,6
+63,amc,fiber tracts,7
+64,AMd,Interbrain,4
+65,AMv,Interbrain,4
+66,AN,Cerebellar Cortex,8
+67,ANcr1,Cerebellar Cortex,8
+68,ANcr1_gr,Cerebellar Cortex,8
+69,ANcr1_mo,Cerebellar Cortex,8
+70,ANcr2,Cerebellar Cortex,8
+71,ANcr2_gr,Cerebellar Cortex,8
+72,ANCr2_mo,Cerebellar Cortex,8
+73,AOB,Cortex,2
+74,AOB_gl,Cortex,2
+75,AOB_gr,Cortex,2
+76,AOB_mi,Cortex,2
+77,AOBgl,Cortex,2
+78,AOBgr,Cortex,2
+79,AOBmi,Cortex,2
+80,aolt,fiber tracts,7
+81,AON,Cortex,2
+82,AON_,Cortex,2
+83,AON_1,Cortex,2
+84,AON_d,Cortex,2
+85,AON_e,Cortex,2
+86,AON_l,Cortex,2
+87,AON_m,Cortex,2
+88,AON_pv,Cortex,2
+89,AONd,Cortex,2
+90,AONe,Cortex,2
+91,AONl,Cortex,2
+92,AONm,Cortex,2
+93,AONpv,Cortex,2
+94,aot,fiber tracts,7
+95,AP,Hindbrain,6
+96,apd,fiber tracts,7
+97,apf,fiber tracts,7
+98,APN,Midbrain,5
+99,AQ,Interbrain,4
+100,arb,fiber tracts,7
+101,ARH,Interbrain,4
+102,ASO,Interbrain,4
+103,AT,Midbrain,5
+104,ATN,Interbrain,4
+105,AUD,Isocortex,1
+106,AUDd,Isocortex,1
+107,AUDd_1,Isocortex,1
+108,AUDd_2/3,Isocortex,1
+109,AUDd_4,Isocortex,1
+110,AUDd_5,Isocortex,1
+111,AUDd_6a,Isocortex,1
+112,AUDd_6b,Isocortex,1
+113,AUDp,Isocortex,1
+114,AUDp_1,Isocortex,1
+115,AUDp_2/3,Isocortex,1
+116,AUDp_4,Isocortex,1
+117,AUDp_5,Isocortex,1
+118,AUDp_6a,Isocortex,1
+119,AUDp_6b,Isocortex,1
+120,AUDpo,Isocortex,1
+121,AUDPo_1,Isocortex,1
+122,AUDPo_2/3,Isocortex,1
+123,AUDPo_4,Isocortex,1
+124,AUDPo_5,Isocortex,1
+125,AUDPo_6a,Isocortex,1
+126,AUDpo_6b,Isocortex,1
+127,AUDv,Isocortex,1
+128,AUDv_1,Isocortex,1
+129,AUDv_2/3,Isocortex,1
+130,AUDv_4,Isocortex,1
+131,AUDv_5,Isocortex,1
+132,AUDv_6a,Isocortex,1
+133,AUDv_6b,Isocortex,1
+134,AV,Interbrain,4
+135,AVP,Interbrain,4
+136,AVPV,Interbrain,4
+137,B,Hindbrain,6
+138,BA,Cerebral Nuclei,3
+139,BAC,Cerebral Nuclei,3
+140,bct,fiber tracts,7
+141,bic,fiber tracts,7
+142,BLA,Cortex,2
+143,BLA_a,Cortex,2
+144,BLA_ac,Cortex,2
+145,BLA_al,Cortex,2
+146,BLA_am,Cortex,2
+147,BLA_p,Cortex,2
+148,BLA_v,Cortex,2
+149,BLAa,Cortex,2
+150,BLAa-l,Cortex,2
+151,BLAa-m,Cortex,2
+152,BLAp,Cortex,2
+153,BLAv,Cortex,2
+154,BMA,Cortex,2
+155,BMA_a,Cortex,2
+156,BMA_p,Cortex,2
+157,BMAa,Cortex,2
+158,BMAp,Cortex,2
+159,Brain,NA,9
+160,BS,NA,9
+161,bsc,fiber tracts,7
+162,BST,Cerebral Nuclei,3
+163,BST_AL,Cerebral Nuclei,3
+164,BST_AM,Cerebral Nuclei,3
+165,BST_BAC,Cerebral Nuclei,3
+166,BST_d,Cerebral Nuclei,3
+167,BST_dm,Cerebral Nuclei,3
+168,BST_fu,Cerebral Nuclei,3
+169,BST_if,Cerebral Nuclei,3
+170,BST_ju,Cerebral Nuclei,3
+171,BST_mg,Cerebral Nuclei,3
+172,BST_OV,Cerebral Nuclei,3
+173,BST_pr,Cerebral Nuclei,3
+174,BST_rh,Cerebral Nuclei,3
+175,BST_se,Cerebral Nuclei,3
+176,BST_tr,Cerebral Nuclei,3
+177,BST_v,Cerebral Nuclei,3
+178,BSTa,Cerebral Nuclei,3
+179,BSTal,Cerebral Nuclei,3
+180,BSTam,Cerebral Nuclei,3
+181,BSTd,Cerebral Nuclei,3
+182,BSTdm,Cerebral Nuclei,3
+183,BSTfu,Cerebral Nuclei,3
+184,BSTif,Cerebral Nuclei,3
+185,BSTju,Cerebral Nuclei,3
+186,BSTmg,Cerebral Nuclei,3
+187,BSTov,Cerebral Nuclei,3
+188,BSTp,Cerebral Nuclei,3
+189,BSTpr,Cerebral Nuclei,3
+190,BSTrh,Cerebral Nuclei,3
+191,BSTse,Cerebral Nuclei,3
+192,BSTtr,Cerebral Nuclei,3
+193,BSTv,Cerebral Nuclei,3
+194,c,Interbrain,4
+195,CA,Cortex,2
+196,CA1,Cortex,2
+197,CA1_slm,Cortex,2
+198,CA1_so,Cortex,2
+199,CA1_sp,Cortex,2
+200,CA1_sr,Cortex,2
+201,CA1dc,Cortex,2
+202,CA1dr,Cortex,2
+203,CA1i,Cortex,2
+204,CA1slm,Cortex,2
+205,CA1so,Cortex,2
+206,CA1sp,Cortex,2
+207,CA1sr,Cortex,2
+208,CA1v,Cortex,2
+209,CA1vv,Cortex,2
+210,CA2,Cortex,2
+211,CA2_c,Cortex,2
+212,CA2_i,Cortex,2
+213,CA2_r,Cortex,2
+214,CA2_slm,Cortex,2
+215,CA2_so,Cortex,2
+216,CA2_sp,Cortex,2
+217,CA2_sr,Cortex,2
+218,CA2slm,Cortex,2
+219,CA2so,Cortex,2
+220,CA2sp,Cortex,2
+221,CA2sr,Cortex,2
+222,CA3,Cortex,2
+223,CA3_slm,Cortex,2
+224,CA3_slu,Cortex,2
+225,CA3_so,Cortex,2
+226,CA3_sp,Cortex,2
+227,CA3_sr,Cortex,2
+228,CA3d,Cortex,2
+229,CA3dd,Cortex,2
+230,CA3i,Cortex,2
+231,CA3ic,Cortex,2
+232,CA3id,Cortex,2
+233,CA3slm,Cortex,2
+234,CA3slu,Cortex,2
+235,CA3so,Cortex,2
+236,CA3sp,Cortex,2
+237,CA3sr,Cortex,2
+238,CA3v,Cortex,2
+239,CA3vv,Cortex,2
+240,CB,NA,9
+241,cbc,fiber tracts,7
+242,cbf,fiber tracts,7
+243,CBN,NA,9
+244,cbp,fiber tracts,7
+245,cbt,fiber tracts,7
+246,CBX,Cerebellar Cortex,8
+247,cc,fiber tracts,7
+248,ccg,fiber tracts,7
+249,ccr,fiber tracts,7
+250,ccs,fiber tracts,7
+251,cct,fiber tracts,7
+252,CEA,Cerebral Nuclei,3
+253,CEA_c,Cerebral Nuclei,3
+254,CEA_l,Cerebral Nuclei,3
+255,CEA_m,Cerebral Nuclei,3
+256,CEAc,Cerebral Nuclei,3
+257,CEAl,Cerebral Nuclei,3
+258,CEAm,Cerebral Nuclei,3
+259,CENT,Cerebellar Cortex,8
+260,CENT2,Cerebellar Cortex,8
+261,CENT2_gr,Cerebellar Cortex,8
+262,CENT2_mo,Cerebellar Cortex,8
+263,CENT3,Cerebellar Cortex,8
+264,CENT3_gr,Cerebellar Cortex,8
+265,CENT3_mo,Cerebellar Cortex,8
+266,central_canal,NA,9
+267,cett,fiber tracts,7
+268,CH,NA,9
+269,chfl,fiber tracts,7
+270,chpl,fiber tracts,7
+271,cic,fiber tracts,7
+272,cing,fiber tracts,7
+273,CL,Interbrain,4
+274,CLA,Cortex,2
+275,CLI,Midbrain,5
+276,cm,fiber tracts,7
+277,CM,Interbrain,4
+278,CN,Hindbrain,6
+279,CNlam,Hindbrain,6
+280,CNspg,Hindbrain,6
+281,CNU,Cerebral nuclei,3
+282,COA,Cortex,2
+283,COAa,Cortex,2
+284,COAa_1,Cortex,2
+285,COAa_2,Cortex,2
+286,COAp,Cortex,2
+287,COApl,Cortex,2
+288,COApl_1,Cortex,2
+289,COApl_2,Cortex,2
+290,COApl_3,Cortex,2
+291,COApm,Cortex,2
+292,COApm_1,Cortex,2
+293,COApm_2,Cortex,2
+294,COApm_3,Cortex,2
+295,COPY,Cerebellar Cortex,8
+296,COPY_gr,Cerebellar Cortex,8
+297,COPY_mo,Cerebellar Cortex,8
+298,CP,Cerebral Nuclei,3
+299,CPc,Cerebral Nuclei,3
+300,CPc.d.dl,Cerebral Nuclei,3
+301,CPc.d.dm,Cerebral Nuclei,3
+302,CPc.d.vm,Cerebral Nuclei,3
+303,CPc.ext,Cerebral Nuclei,3
+304,CPc.i.d,Cerebral Nuclei,3
+305,CPc.i.vl,Cerebral Nuclei,3
+306,CPc.i.vm,Cerebral Nuclei,3
+307,CPc.v,Cerebral Nuclei,3
+308,cpd,fiber tracts,7
+309,CPi,Cerebral Nuclei,3
+310,CPi.dl.d(tr),Cerebral Nuclei,3
+311,CPi.dl.imd(ll),Cerebral Nuclei,3
+312,CPi.dm.cd,Cerebral Nuclei,3
+313,CPi.dm.d,Cerebral Nuclei,3
+314,CPi.dm.dl,Cerebral Nuclei,3
+315,CPi.dm.dm,Cerebral Nuclei,3
+316,CPi.dm.im,Cerebral Nuclei,3
+317,CPi.vl.cvl,Cerebral Nuclei,3
+318,CPi.vl.imv(ul),Cerebral Nuclei,3
+319,CPi.vl.v(m/i),Cerebral Nuclei,3
+320,CPi.vl.vt(m/o),Cerebral Nuclei,3
+321,CPi.vm.cvm,Cerebral Nuclei,3
+322,CPi.vm.v,Cerebral Nuclei,3
+323,CPi.vm.vm,Cerebral Nuclei,3
+324,CPr.imd,Cerebral Nuclei,3
+325,CPr.imv,Cerebral Nuclei,3
+326,CPr.l.ls,Cerebral Nuclei,3
+327,CPr.l.vm,Cerebral Nuclei,3
+328,CPr.m,Cerebral Nuclei,3
+329,cpt,fiber tracts,7
+330,crt,fiber tracts,7
+331,CS,Hindbrain,6
+332,CS_l,Hindbrain,6
+333,CS_m,Hindbrain,6
+334,csc,fiber tracts,7
+335,CSl,Hindbrain,6
+336,CSm,Hindbrain,6
+337,cst,fiber tracts,7
+338,cstc,fiber tracts,7
+339,cstu,fiber tracts,7
+340,ctb,fiber tracts,7
+341,cte,fiber tracts,7
+342,CTX,NA,9
+343,CTXpl,NA,9
+344,CTXsp,NA,9
+345,CU,Hindbrain,6
+346,cuf,fiber tracts,7
+347,CUL,Cerebellar Cortex,8
+348,CUL_mo,Cerebellar Cortex,8
+349,CUL4,Cerebellar Cortex,8
+350,"CUL4, 5",Cerebellar Cortex,8
+351,CUL4/5_gr,Cerebellar Cortex,8
+352,CUL4/5_mo,Cerebellar Cortex,8
+353,CUL5,Cerebellar Cortex,8
+354,CUN,Midbrain,5
+355,cvb,fiber tracts,7
+356,cVIIIn,fiber tracts,7
+357,das,fiber tracts,7
+358,db,fiber tracts,7
+359,dc,fiber tracts,7
+360,dcm,fiber tracts,7
+361,DCN,Hindbrain,6
+362,DCO,Hindbrain,6
+363,DEC,Cerebellar Cortex,8
+364,DEC_gr,Cerebellar Cortex,8
+365,DEC_mo,Cerebellar Cortex,8
+366,df,fiber tracts,7
+367,DG,Cortex,2
+368,DG_mo,Cortex,2
+369,DG_po,Cortex,2
+370,DG_sg,Cortex,2
+371,DG-sg,Cortex,2
+372,DGcr,Cortex,2
+373,DGcr-mo,Cortex,2
+374,DGcr-po,Cortex,2
+375,DGcr-sg,Cortex,2
+376,DGd,Cortex,2
+377,DGi,Cortex,2
+378,DGlb,Cortex,2
+379,DGlb-mo,Cortex,2
+380,DGlb-po,Cortex,2
+381,DGlb-sg,Cortex,2
+382,DGmb,Cortex,2
+383,DGmb-mo,Cortex,2
+384,DGmb-po,Cortex,2
+385,DGmb-sg,Cortex,2
+386,DGpod,Cortex,2
+387,DGpov,Cortex,2
+388,DGv,Cortex,2
+389,dhc,fiber tracts,7
+390,dl,fiber tracts,7
+391,dlf,fiber tracts,7
+392,DMH,Interbrain,4
+393,DMH_a,Interbrain,4
+394,DMH_p,Interbrain,4
+395,DMH_v,Interbrain,4
+396,DMHa,Interbrain,4
+397,DMHp,Interbrain,4
+398,DMHv,Interbrain,4
+399,DMX,Hindbrain,6
+400,DN,Cerebellar Nuclei,8
+401,DORpm,Interbrain,4
+402,DORsm,Interbrain,4
+403,DP,Cortex,2
+404,DP_1,Cortex,2
+405,DP_2/3,Cortex,2
+406,DP_5,Cortex,2
+407,DP_6a,Cortex,2
+408,DR,Midbrain,5
+409,drt,fiber tracts,7
+410,dscp,fiber tracts,7
+411,DT,Midbrain,5
+412,dtd,fiber tracts,7
+413,DTN,Hindbrain,6
+414,dtt,fiber tracts,7
+415,ec,fiber tracts,7
+416,ECO,Hindbrain,6
+417,ECT,Isocortex,1
+418,ect,fiber tracts,7
+419,ECT_1,Isocortex,1
+420,ECT_2/3,Isocortex,1
+421,ECT_5,Isocortex,1
+422,ECT_6a,Isocortex,1
+423,ECT_6b,Isocortex,1
+424,ECU,Hindbrain,6
+425,ee,fiber tracts,7
+426,eg,fiber tracts,7
+427,em,fiber tracts,7
+428,ENT,Cortex,2
+429,ENTl,Cortex,2
+430,ENTl_1,Cortex,2
+431,ENTl_2,Cortex,2
+432,ENTl_2/3,Cortex,2
+433,ENTl_2a,Cortex,2
+434,ENTl_2b,Cortex,2
+435,ENTl_3,Cortex,2
+436,ENTl_4,Cortex,2
+437,ENTl_4/5,Cortex,2
+438,ENTl_5,Cortex,2
+439,ENTl_6,Cortex,2
+440,ENTl_6a,Cortex,2
+441,ENTl_6b,Cortex,2
+442,ENTm,Cortex,2
+443,ENTm_1,Cortex,2
+444,ENTm_2,Cortex,2
+445,ENTm_2a,Cortex,2
+446,ENTm_2b,Cortex,2
+447,ENTm_3,Cortex,2
+448,ENTm_4,Cortex,2
+449,ENTm_5,Cortex,2
+450,ENTm_6,Cortex,2
+451,ENTmv,Cortex,2
+452,ENTmv_1,Cortex,2
+453,ENTmv_2,Cortex,2
+454,ENTmv_3,Cortex,2
+455,ENTmv_5/6,Cortex,2
+456,EP,Cortex,2
+457,EP_d,Cortex,2
+458,Ep_v,Cortex,2
+459,EPd,Cortex,2
+460,EPI,Interbrain,4
+461,eps,fiber tracts,7
+462,epsc,fiber tracts,7
+463,EPv,Cortex,2
+464,EW,Midbrain,5
+465,fa,fiber tracts,7
+466,FC,Cortex,2
+467,FF,Interbrain,4
+468,fi,fiber tracts,7
+469,fiber tracts,NA,9
+470,FL,Cerebellar Cortex,8
+471,FL_gr,Cerebellar Cortex,8
+472,FL_mo,Cerebellar Cortex,8
+473,FN,Cerebellar Nuclei,8
+474,FOTU,Cerebellar Cortex,8
+475,FOTU_gr,Cerebellar Cortex,8
+476,FOTU_mo,Cerebellar Cortex,8
+477,fp,fiber tracts,7
+478,fpr,fiber tracts,7
+479,fr,fiber tracts,7
+480,FRP,Isocortex,1
+481,FRP_1,Isocortex,1
+482,FRP_2/3,Isocortex,1
+483,FS,Cerebral Nuclei,3
+484,fx,fiber tracts,7
+485,fxpo,fiber tracts,7
+486,fxprg,fiber tracts,7
+487,fxs,fiber tracts,7
+488,GENd,Interbrain,4
+489,GENv,Interbrain,4
+490,GP,Cerebral Nuclei,3
+491,GPe,Cerebral Nuclei,3
+492,Gpe,NA,9
+493,GPi,Cerebral Nuclei,3
+494,Gpi,NA,9
+495,GR,Hindbrain,6
+496,grf,fiber tracts,7
+497,GRN,Hindbrain,6
+498,grv,NA,9
+499,grv of CBX,NA,9
+500,grv of CTX,NA,9
+501,GU,Isocortex,1
+502,GU_1,Isocortex,1
+503,GU_2/3,Isocortex,1
+504,GU_4,Isocortex,1
+505,GU_5,Isocortex,1
+506,GU_6a,Isocortex,1
+507,GU_6b,Isocortex,1
+508,gVIIn,fiber tracts,7
+509,HB,Hindbrain,6
+510,hbc,fiber tracts,7
+511,hc,fiber tracts,7
+512,HEM,Cerebellar Cortex,8
+513,hf,fiber tracts,7
+514,hht,fiber tracts,7
+515,HIP,Cortex,2
+516,HPF,Cortex,2
+517,HY,Interbrain,4
+518,IA,Cerebral Nuclei,3
+519,IAD,Interbrain,4
+520,iaf,fiber tracts,7
+521,IAM,Interbrain,4
+522,ias,fiber tracts,7
+523,IB,Interbrain,4
+524,IC,Midbrain,5
+525,IC_c,Midbrain,5
+526,IC_d,Midbrain,5
+527,IC_e,Midbrain,5
+528,ICB,Hindbrain,6
+529,ICc,Midbrain,5
+530,ICd,Midbrain,5
+531,ICe,Midbrain,5
+532,icf,fiber tracts,7
+533,icp,fiber tracts,7
+534,IF,Midbrain,5
+535,IG,Cortex,2
+536,IGL,Interbrain,4
+537,II,Midbrain,5
+538,III,Midbrain,5
+539,IIIn,fiber tracts,7
+540,Iin,fiber tracts,7
+541,ILA,Isocortex,1
+542,ILA_1,Isocortex,1
+543,ILA_2,Isocortex,1
+544,ILA_2/3,Isocortex,1
+545,ILA_3,Isocortex,1
+546,ILA_5,Isocortex,1
+547,ILA_6a,Isocortex,1
+548,ILA_6b,Isocortex,1
+549,ILM,Interbrain,4
+550,im,fiber tracts,7
+551,IMD,Interbrain,4
+552,In5,fiber tracts,7
+553,INC,Midbrain,5
+554,int,fiber tracts,7
+555,INV,Hindbrain,6
+556,IO,Hindbrain,6
+557,Iotg,fiber tracts,7
+558,IP,Cerebellar Nuclei,8
+559,IPF,NA,9
+560,ipf,fiber tracts,7
+561,IPN,Midbrain,5
+562,IRN,Hindbrain,6
+563,isl,Cerebral Nuclei,3
+564,islm,Cerebral Nuclei,3
+565,ISN,Hindbrain,6
+566,Isocortex,Isocortex,1
+567,Isst,fiber tracts,7
+568,IV,Midbrain,5
+569,IVd,fiber tracts,7
+570,IVF,Interbrain,4
+571,iVIIn,fiber tracts,7
+572,IVn,fiber tracts,7
+573,IXn,fiber tracts,7
+574,jrb,fiber tracts,7
+575,KF,Hindbrain,6
+576,LA,Cortex,2
+577,lab,fiber tracts,7
+578,LAT,Interbrain,4
+579,LAV,Hindbrain,6
+580,LC,Hindbrain,6
+581,LD,Interbrain,4
+582,LDT,Hindbrain,6
+583,lfbs,fiber tracts,7
+584,lfbst,fiber tracts,7
+585,LG_d,NA,9
+586,LG_v,NA,9
+587,LGd,Interbrain,4
+588,LGv,Interbrain,4
+589,LGvl,Interbrain,4
+590,LGvm,Interbrain,4
+591,LH,Interbrain,4
+592,LHA,Interbrain,4
+593,LIN,Hindbrain,6
+594,LING,Cerebellar Cortex,8
+595,LING_gr,Cerebellar Cortex,8
+596,LING_mo,Cerebellar Cortex,8
+597,ll,fiber tracts,7
+598,LM,Interbrain,4
+599,lot,fiber tracts,7
+600,lotd,fiber tracts,7
+601,LP,Interbrain,4
+602,LPO,Interbrain,4
+603,LRN,Hindbrain,6
+604,LRN_m,Hindbrain,6
+605,LRN_p,Hindbrain,6
+606,LRNm,Hindbrain,6
+607,LRNp,Hindbrain,6
+608,LS,Cerebral Nuclei,3
+609,LS_c,Cerebral Nuclei,3
+610,LS_r,Cerebral Nuclei,3
+611,LS_v,Cerebral Nuclei,3
+612,LSc,Cerebral Nuclei,3
+613,LSr,Cerebral Nuclei,3
+614,LSv,Cerebral Nuclei,3
+615,LSX,Cerebral Nuclei,3
+616,LT,Midbrain,5
+617,LTN,Hindbrain,6
+618,LZ,Interbrain,4
+619,MA,Cerebral Nuclei,3
+620,MARN,Hindbrain,6
+621,MB,Midbrain,5
+622,MBmot,Midbrain,5
+623,MBO,Interbrain,4
+624,MBsen,Midbrain,5
+625,MBsta,Midbrain,5
+626,mcp,fiber tracts,7
+627,mct,fiber tracts,7
+628,MD,Interbrain,4
+629,MD_c,Interbrain,4
+630,MD_I,Interbrain,4
+631,MD_m,Interbrain,4
+632,MDc,Interbrain,4
+633,MDl,Interbrain,4
+634,MDm,Interbrain,4
+635,MDRN,Hindbrain,6
+636,MDRN_d,Hindbrain,6
+637,MDRN_v,Hindbrain,6
+638,MDRNd,Hindbrain,6
+639,MDRNv,Hindbrain,6
+640,ME,NA,9
+641,MEA,Cerebral Nuclei,3
+642,MEA_ad,Cerebral Nuclei,3
+643,MEA_av,Cerebral Nuclei,3
+644,MEA_pd_a,Cerebral Nuclei,3
+645,MEA_pd_b,Cerebral Nuclei,3
+646,MEA_pd_c,Cerebral Nuclei,3
+647,MEA_pv,Cerebral Nuclei,3
+648,MEAad,Cerebral Nuclei,3
+649,MEAav,Cerebral Nuclei,3
+650,MEApd,Cerebral Nuclei,3
+651,MEApd-a,Cerebral Nuclei,3
+652,MEApd-b,Cerebral Nuclei,3
+653,MEApd-c,Cerebral Nuclei,3
+654,MEApv,Cerebral Nuclei,3
+655,MED,Interbrain,4
+656,MEPO,Interbrain,4
+657,MEV,Midbrain,5
+658,MEZ ,Interbrain,4
+659,mfb,fiber tracts,7
+660,mfbc,fiber tracts,7
+661,mfbs,fiber tracts,7
+662,mfbse,fiber tracts,7
+663,mfbsm,fiber tracts,7
+664,mfbsma,fiber tracts,7
+665,mfbst,fiber tracts,7
+666,mfsbshy,fiber tracts,7
+667,MG,Interbrain,4
+668,MG_d,Interbrain,4
+669,MG_m,Interbrain,4
+670,MG_v,Interbrain,4
+671,MGd,Interbrain,4
+672,MGm,Interbrain,4
+673,MGv,Interbrain,4
+674,MH,Interbrain,4
+675,ml,fiber tracts,7
+676,mlf,fiber tracts,7
+677,MM,Interbrain,4
+678,MM_me,Interbrain,4
+679,Mmme,Interbrain,4
+680,MO,Isocortex,1
+681,MOB,Cortex,2
+682,MOB_gl,Cortex,2
+683,MOB_gr,Cortex,2
+684,MOB_ipl,Cortex,2
+685,MOB_mi,Cortex,2
+686,MOB_opl,Cortex,2
+687,MOBgl,Cortex,2
+688,MOBgr,Cortex,2
+689,MOBipl,Cortex,2
+690,MOBmi,Cortex,2
+691,MOBopl,Cortex,2
+692,MOp,Isocortex,1
+693,MOp_1,Isocortex,1
+694,MOp_2/3,Isocortex,1
+695,MOp_5,Isocortex,1
+696,MOp_6,Isocortex,1
+697,MOp_6a,Isocortex,1
+698,MOp_6b,Isocortex,1
+699,MOp-ll,Isocortex,1
+700,MOp-mi,Isocortex,1
+701,MOp-mo,Isocortex,1
+702,MOp-tr,Isocortex,1
+703,MOp-ul,Isocortex,1
+704,MOs,Isocortex,1
+705,MOs_1,Isocortex,1
+706,MOs_2/3,Isocortex,1
+707,MOs_5,Isocortex,1
+708,MOs_6,Isocortex,1
+709,MOs_6a,Isocortex,1
+710,MOs_6b,Isocortex,1
+711,MOs-fef,Isocortex,1
+712,MOs-ll,Isocortex,1
+713,MOs-mi,Isocortex,1
+714,MOs-mo,Isocortex,1
+715,MOs-rp1,Isocortex,1
+716,MOs-rp2,Isocortex,1
+717,MOs-tr,Isocortex,1
+718,MOs-ul,Isocortex,1
+719,moV,NA,9
+720,mp,fiber tracts,7
+721,MPN,Interbrain,4
+722,MPN_c,Interbrain,4
+723,MPN_l,Interbrain,4
+724,MPN_m,Interbrain,4
+725,MPNc,Interbrain,4
+726,MPNl,Interbrain,4
+727,MPNm,Interbrain,4
+728,MPO,Interbrain,4
+729,MPT,Midbrain,5
+730,MRN,Midbrain,5
+731,MS,Cerebral Nuclei,3
+732,MSC,Cerebral Nuclei,3
+733,MT,Midbrain,5
+734,mtc,fiber tracts,7
+735,mtg,fiber tracts,7
+736,MTN,Interbrain,4
+737,mtt,fiber tracts,7
+738,mtV,fiber tracts,7
+739,mtv,fiber tracts,7
+740,MV,Hindbrain,6
+741,MY,Hindbrain,6
+742,MY-mot,Hindbrain,6
+743,MY-sat,Hindbrain,6
+744,MY-sen,Hindbrain,6
+745,NB,Midbrain,5
+746,NC,Interbrain,4
+747,ND,Midbrain,5
+748,NDB,Cerebral Nuclei,3
+749,nf,fiber tracts,7
+750,NI,Hindbrain,6
+751,NIS,Hindbrain,6
+752,NLL,Hindbrain,6
+753,NLL_d,Hindbrain,6
+754,NLL_h,Hindbrain,6
+755,NLL_v,Hindbrain,6
+756,NLLd,Hindbrain,6
+757,NLLh,Hindbrain,6
+758,NLLv,Hindbrain,6
+759,NLOT,Cortex,2
+760,NLOT_1,Cortex,2
+761,NLOT_2,Cortex,2
+762,NLOT_3,Cortex,2
+763,NLOT1,Cortex,2
+764,NLOT2,Cortex,2
+765,NOD,Cerebellar Cortex,8
+766,NOD_gr,Cerebellar Cortex,8
+767,NOD_mo,Cerebellar Cortex,8
+768,NOT,Midbrain,5
+769,NPC,Midbrain,5
+770,NR,Hindbrain,6
+771,nst,fiber tracts,7
+772,NTB,Hindbrain,6
+773,NTS,Hindbrain,6
+774,NTS_ce,Hindbrain,6
+775,NTS_co,Hindbrain,6
+776,NTS_ge,Hindbrain,6
+777,NTS_l,Hindbrain,6
+778,NTS_m,Hindbrain,6
+779,NTSce,Hindbrain,6
+780,NTSco,Hindbrain,6
+781,NTSge,Hindbrain,6
+782,NTSl,Hindbrain,6
+783,NTSm,Hindbrain,6
+784,ntt,fiber tracts,7
+785,och,fiber tracts,7
+786,oct,fiber tracts,7
+787,OLF,Cortex,2
+788,onl,fiber tracts,7
+789,OP,Midbrain,5
+790,opt,fiber tracts,7
+791,ORB,Isocortex,1
+792,ORBl,Isocortex,1
+793,ORBl_1,Isocortex,1
+794,ORBl_2/3,Isocortex,1
+795,ORBl_5,Isocortex,1
+796,ORBl_6,Isocortex,1
+797,ORBl_6a,Isocortex,1
+798,ORBl_6b,Isocortex,1
+799,ORBm,Isocortex,1
+800,ORBm_1,Isocortex,1
+801,ORBm_2,Isocortex,1
+802,ORBm_2/3,Isocortex,1
+803,ORBm_3,Isocortex,1
+804,ORBm_5,Isocortex,1
+805,ORBm_6,Isocortex,1
+806,ORBm_6a,Isocortex,1
+807,ORBv,Isocortex,1
+808,ORBvl,Isocortex,1
+809,ORBvl_1,Isocortex,1
+810,ORBvl_2/3,Isocortex,1
+811,ORBvl_5,Isocortex,1
+812,ORBvl_6,Isocortex,1
+813,ORBvl_6a,Isocortex,1
+814,ORBvl_6b,Isocortex,1
+815,OT,Cerebral Nuclei,3
+816,OT_1,Cerebral Nuclei,3
+817,OT_2,Cerebral Nuclei,3
+818,OT_3,Cerebral Nuclei,3
+819,OT1,Cerebral Nuclei,3
+820,OT2,Cerebral Nuclei,3
+821,OT3,Cerebral Nuclei,3
+822,OV,Interbrain,4
+823,P,Hindbrain,6
+824,P-mot,Hindbrain,6
+825,P-sat,Hindbrain,6
+826,P-sen,Hindbrain,6
+827,PA,Cortex,2
+828,PAA,Cortex,2
+829,PAA_1,Cortex,2
+830,PAA_2,Cortex,2
+831,PAA_3,Cortex,2
+832,PAG,Midbrain,5
+833,PAL,Cerebral Nuclei,3
+834,PALc,Cerebral Nuclei,3
+835,PALd,Cerebral Nuclei,3
+836,PALm,Cerebral Nuclei,3
+837,PALv,Cerebral Nuclei,3
+838,pap,fiber tracts,7
+839,PAR,Cortex,2
+840,PAR_1,Cortex,2
+841,PAR_2,Cortex,2
+842,PAR_3,Cortex,2
+843,PARN,Hindbrain,6
+844,PAS,Hindbrain,6
+845,PB,Hindbrain,6
+846,PBG,Midbrain,5
+847,PBl,Hindbrain,6
+848,PBl_lc,Hindbrain,6
+849,PBl_ld,Hindbrain,6
+850,PBl_le,Hindbrain,6
+851,PBl_ls,Hindbrain,6
+852,PBl_lv,Hindbrain,6
+853,PBlc,Hindbrain,6
+854,PBld,Hindbrain,6
+855,PBle,Hindbrain,6
+856,PBls,Hindbrain,6
+857,PBlv,Hindbrain,6
+858,PBm,Hindbrain,6
+859,PBm_m,Hindbrain,6
+860,PBm_me,Hindbrain,6
+861,PBme,Hindbrain,6
+862,PBmm,Hindbrain,6
+863,PBmv,Hindbrain,6
+864,pc,fiber tracts,7
+865,pce,fiber tracts,7
+866,pcf,fiber tracts,7
+867,PCG,Hindbrain,6
+868,PCN,Interbrain,4
+869,PD,Interbrain,4
+870,per,fiber tracts,7
+871,PERI,Isocortex,1
+872,PERI_1,Isocortex,1
+873,PERI_2/3,Isocortex,1
+874,PERI_5,Isocortex,1
+875,PERI_6a,Isocortex,1
+876,PERI_6b,Isocortex,1
+877,PF,Interbrain,4
+878,PFL,Cerebellar Cortex,8
+879,PFL_gr,Cerebellar Cortex,8
+880,PFL_mo,Cerebellar Cortex,8
+881,pfs,fiber tracts,7
+882,PG,Hindbrain,6
+883,PGRN,Hindbrain,6
+884,PGRN_d,Hindbrain,6
+885,PGRN_l,Hindbrain,6
+886,PGRNd,Hindbrain,6
+887,PGRNl,Hindbrain,6
+888,PH,Interbrain,4
+889,php,fiber tracts,7
+890,phpd,fiber tracts,7
+891,phpl,fiber tracts,7
+892,phpm,fiber tracts,7
+893,phpv,fiber tracts,7
+894,PHY,Hindbrain,6
+895,PIN,Interbrain,4
+896,PIR,Cortex,2
+897,PIR_1,Cortex,2
+898,PIR_2,Cortex,2
+899,PIR_3,Cortex,2
+900,PIR1,Cortex,2
+901,PIR2,Cortex,2
+902,PIR3,Cortex,2
+903,PIS,fiber tracts,7
+904,PL,Isocortex,1
+905,PL_1,Isocortex,1
+906,PL_2,Isocortex,1
+907,PL_2/3,Isocortex,1
+908,PL_3,Isocortex,1
+909,PL_5,Isocortex,1
+910,PL_6,Isocortex,1
+911,PL_6a,Isocortex,1
+912,PL_6b,Isocortex,1
+913,PLd,NA,9
+914,PLd-L6,NA,9
+915,plf,fiber tracts,7
+916,PLr,NA,9
+917,PLv,NA,9
+918,pm,fiber tracts,7
+919,PM_d,NA,9
+920,PM_v,NA,9
+921,PMd,Interbrain,4
+922,PMR,Hindbrain,6
+923,pms,fiber tracts,7
+924,PMv,Interbrain,4
+925,pmx,fiber tracts,7
+926,PO,Interbrain,4
+927,poc,fiber tracts,7
+928,POL,Interbrain,4
+929,PONS,NA,9
+930,POR,Hindbrain,6
+931,POST,Cortex,2
+932,POST_1,Cortex,2
+933,POST_2,Cortex,2
+934,POST_3,Cortex,2
+935,PP,Interbrain,4
+936,ppf,fiber tracts,7
+937,PPN,Midbrain,5
+938,PPT,Midbrain,5
+939,PPY,Hindbrain,6
+940,PPYd,Hindbrain,6
+941,PPYs,Hindbrain,6
+942,PR,Interbrain,4
+943,PRC,Midbrain,5
+944,PRE,Cortex,2
+945,PRE_1,Cortex,2
+946,PRE_2,Cortex,2
+947,PRE_3,Cortex,2
+948,pri,fiber tracts,7
+949,PRM,Cerebellar Cortex,8
+950,PRM_gr,Cerebellar Cortex,8
+951,PRM_mo,Cerebellar Cortex,8
+952,PRNc,Hindbrain,6
+953,PRNr,Hindbrain,6
+954,PRNv,Hindbrain,6
+955,ProSUB,NA,9
+956,PRP,Hindbrain,6
+957,PRT,Midbrain,5
+958,PS,Interbrain,4
+959,PSCH,Interbrain,4
+960,psf,fiber tracts,7
+961,PST,Interbrain,4
+962,PSTN,Interbrain,4
+963,PSV,Hindbrain,6
+964,PT,Interbrain,4
+965,ptf,fiber tracts,7
+966,PTLp,Isocortex,1
+967,PTLp_1,Isocortex,1
+968,PTLp_2/3,Isocortex,1
+969,PTLp_4,Isocortex,1
+970,PTLp_5,Isocortex,1
+971,PTLp_6a,Isocortex,1
+972,PTLp_6b,Isocortex,1
+973,PTLp-cl,Isocortex,1
+974,PTLp-cm,Isocortex,1
+975,PTLp-r,Isocortex,1
+976,PV_a,NA,9
+977,PV_i,NA,9
+978,PV_p,NA,9
+979,PV_po,NA,9
+980,PVa,Interbrain,4
+981,pvbh,fiber tracts,7
+982,pvbt,fiber tracts,7
+983,PVH,Interbrain,4
+984,PVH_a,Interbrain,4
+985,PVH_ap,Interbrain,4
+986,PVH_dp,Interbrain,4
+987,PVH_f,Interbrain,4
+988,PVH_lp,Interbrain,4
+989,PVH_mm,Interbrain,4
+990,PVH_mpd,Interbrain,4
+991,PVH_mpv,Interbrain,4
+992,PVH_pml,Interbrain,4
+993,PVH_pmm,Interbrain,4
+994,PVH_pv,Interbrain,4
+995,PVHam,Interbrain,4
+996,PVHap,Interbrain,4
+997,PVHd,Interbrain,4
+998,PVHdp,Interbrain,4
+999,PVHf,Interbrain,4
+1000,PVHlp,Interbrain,4
+1001,PVHm,Interbrain,4
+1002,PVHmm,Interbrain,4
+1003,PVHmpd,Interbrain,4
+1004,PVHmpv,Interbrain,4
+1005,PVHp,Interbrain,4
+1006,PVHpm,Interbrain,4
+1007,PVHpml,Interbrain,4
+1008,PVHpmm,Interbrain,4
+1009,PVHpv,Interbrain,4
+1010,PVi,Interbrain,4
+1011,PVp,Interbrain,4
+1012,PVpo,Interbrain,4
+1013,PVR,Interbrain,4
+1014,PVR_pd,Interbrain,4
+1015,PVT,Interbrain,4
+1016,PVZ,Interbrain,4
+1017,py,fiber tracts,7
+1018,pyd,fiber tracts,7
+1019,PYR,Cerebellar Cortex,8
+1020,PYR_gr,Cerebellar Cortex,8
+1021,PYR_mo,Cerebellar Cortex,8
+1022,RAmb,Midbrain,5
+1023,RC,NA,9
+1024,RCH,Interbrain,4
+1025,rct,fiber tracts,7
+1026,RE,Interbrain,4
+1027,rf,fiber tracts,7
+1028,RH,Interbrain,4
+1029,RHP,Cortex,2
+1030,ri,fiber tracts,7
+1031,RL,Midbrain,5
+1032,RM,Hindbrain,6
+1033,RN,Midbrain,5
+1034,RO,Hindbrain,6
+1035,RPA,Hindbrain,6
+1036,RPO,Hindbrain,6
+1037,RR,Midbrain,5
+1038,rrt,fiber tracts,7
+1039,RSP,Isocortex,1
+1040,RSPagl,Isocortex,1
+1041,RSPagl_1,Isocortex,1
+1042,RSPagl_2/3,Isocortex,1
+1043,RSPagl_5,Isocortex,1
+1044,RSPagl_6a,Isocortex,1
+1045,RSPagl_6b,Isocortex,1
+1046,RSPd,Isocortex,1
+1047,RSPd_1,Isocortex,1
+1048,RSPd_2/3,Isocortex,1
+1049,RSPd_5,Isocortex,1
+1050,RSPd_6a,Isocortex,1
+1051,RSPd_6b,Isocortex,1
+1052,RSPv,Isocortex,1
+1053,RSPv_1,Isocortex,1
+1054,RSPv_2,Isocortex,1
+1055,RSPv_2/3,Isocortex,1
+1056,RSPv_5,Isocortex,1
+1057,RSPv_6a,Isocortex,1
+1058,RSPv_6b,Isocortex,1
+1059,rst,fiber tracts,7
+1060,rstl,fiber tracts,7
+1061,rstm,fiber tracts,7
+1062,RT,Interbrain,4
+1063,rust,fiber tracts,7
+1064,SAG,Midbrain,5
+1065,sAMY,Cerebral Nuclei,3
+1066,SBPV,Interbrain,4
+1067,SCdg,Midbrain,5
+1068,SCdw,Midbrain,5
+1069,SCH,Interbrain,4
+1070,SCig,Midbrain,5
+1071,Scig_b,Midbrain,5
+1072,SCig-a,Midbrain,5
+1073,SCig-b,Midbrain,5
+1074,SCig-c,Midbrain,5
+1075,SCiw,Midbrain,5
+1076,SCm,Midbrain,5
+1077,SCm_dg,Midbrain,5
+1078,SCm_dw,Midbrain,5
+1079,SCm_ig,Midbrain,5
+1080,SCM_ig-a,Midbrain,5
+1081,SCM_ig-b,Midbrain,5
+1082,SCM_ig-c,Midbrain,5
+1083,SCm_iw,Midbrain,5
+1084,SCop,Midbrain,5
+1085,scp,fiber tracts,7
+1086,scrt,fiber tracts,7
+1087,SCs,Midbrain,5
+1088,SCs_op,Midbrain,5
+1089,SCs_sg,Midbrain,5
+1090,SCs_zo,Midbrain,5
+1091,SCsg,Midbrain,5
+1092,sct,fiber tracts,7
+1093,sctd,fiber tracts,7
+1094,sctv,fiber tracts,7
+1095,SCzo,Midbrain,5
+1096,sec,fiber tracts,7
+1097,SEZ,NA,9
+1098,SF,Cerebral Nuclei,3
+1099,SFO,Interbrain,4
+1100,SG,Hindbrain,6
+1101,SGN,Interbrain,4
+1102,SH,Cerebral Nuclei,3
+1103,shp,fiber tracts,7
+1104,SI,Cerebral Nuclei,3
+1105,sif,fiber tracts,7
+1106,SIM,Cerebellar Cortex,8
+1107,SIM_gr,Cerebellar Cortex,8
+1108,SIM_mo,Cerebellar Cortex,8
+1109,SLC,Hindbrain,6
+1110,SLD,Hindbrain,6
+1111,sm,fiber tracts,7
+1112,smd,fiber tracts,7
+1113,SMT,Interbrain,4
+1114,SN_c,NA,9
+1115,SN_r,NA,9
+1116,SNc,Midbrain,5
+1117,SNl,Midbrain,5
+1118,snp,fiber tracts,7
+1119,SNr,Midbrain,5
+1120,SO,Interbrain,4
+1121,SOC,Hindbrain,6
+1122,SOC_l,Hindbrain,6
+1123,SOC_m,Hindbrain,6
+1124,SOCl,Hindbrain,6
+1125,SOCm,Hindbrain,6
+1126,sop,fiber tracts,7
+1127,SPA,Interbrain,4
+1128,SPF,Interbrain,4
+1129,SPF_m,Interbrain,4
+1130,SPF_p,Interbrain,4
+1131,SPFm,Interbrain,4
+1132,SPFp,Interbrain,4
+1133,SPIV,Hindbrain,6
+1134,sptV,fiber tracts,7
+1135,SPV_c,NA,9
+1136,SPV_i,NA,9
+1137,SPVC,Hindbrain,6
+1138,SPVI,Hindbrain,6
+1139,SPVO,Hindbrain,6
+1140,SPVO_cdm,Hindbrain,6
+1141,SPVO_mdmd,Hindbrain,6
+1142,SPVO_mdmv,Hindbrain,6
+1143,SPVO_rdm,Hindbrain,6
+1144,SPVO_vl,Hindbrain,6
+1145,SPVOcdm,Hindbrain,6
+1146,SPVOmdmd,Hindbrain,6
+1147,SPVOmdmv,Hindbrain,6
+1148,SPVOrdm,Hindbrain,6
+1149,SPVOvl,Hindbrain,6
+1150,srp,fiber tracts,7
+1151,SS,Isocortex,1
+1152,SS-tr,Isocortex,1
+1153,SSN,Hindbrain,6
+1154,SSp,Isocortex,1
+1155,SSp_1,Isocortex,1
+1156,SSp_2/3,Isocortex,1
+1157,SSp_4,Isocortex,1
+1158,SSp_5,Isocortex,1
+1159,SSp_6a,Isocortex,1
+1160,SSp_6b,Isocortex,1
+1161,SSp_bfd_1,Isocortex,1
+1162,SSp_bfd_2/3,Isocortex,1
+1163,SSp_bfd_4,Isocortex,1
+1164,SSp_bfd_5,Isocortex,1
+1165,SSp_bfd_6a,Isocortex,1
+1166,SSp_bfd_6b,Isocortex,1
+1167,SSp_ll_1,Isocortex,1
+1168,SSp_ll_2/3,Isocortex,1
+1169,SSp_ll_4,Isocortex,1
+1170,SSp_ll_5,Isocortex,1
+1171,SSp_ll_6a,Isocortex,1
+1172,SSp_ll_6b,Isocortex,1
+1173,SSp_m_1,Isocortex,1
+1174,SSp_m_2/3,Isocortex,1
+1175,SSp_m_4,Isocortex,1
+1176,SSp_m_5,Isocortex,1
+1177,SSp_m_6a,Isocortex,1
+1178,SSp_m_6b,Isocortex,1
+1179,SSp_n_1,Isocortex,1
+1180,SSp_n_2/3,Isocortex,1
+1181,SSp_n_4,Isocortex,1
+1182,SSp_n_5,Isocortex,1
+1183,SSp_n_6a,Isocortex,1
+1184,SSp_n_6b,Isocortex,1
+1185,SSp_tr_1,Isocortex,1
+1186,SSp_tr_2/3,Isocortex,1
+1187,SSp_tr_4,Isocortex,1
+1188,SSp_tr_5,Isocortex,1
+1189,SSp_tr_6a,Isocortex,1
+1190,SSp_tr_6b,Isocortex,1
+1191,SSp_ul_1,Isocortex,1
+1192,SSp_ul_2/3,Isocortex,1
+1193,SSp_ul_4,Isocortex,1
+1194,SSp_ul_5,Isocortex,1
+1195,SSp_ul_6a,Isocortex,1
+1196,SSp_ul_6b,Isocortex,1
+1197,SSp-bfd,Isocortex,1
+1198,SSp-BFD-ll,Isocortex,1
+1199,SSp-BFD-mo,Isocortex,1
+1200,SSp-BFD-tr,Isocortex,1
+1201,SSp-BFD-ul,Isocortex,1
+1202,SSp-ll,Isocortex,1
+1203,SSp-m,Isocortex,1
+1204,SSp-mi,Isocortex,1
+1205,SSp-mo,Isocortex,1
+1206,SSp-n,Isocortex,1
+1207,SSp-tr,Isocortex,1
+1208,SSp-ul,Isocortex,1
+1209,SSp-un_1,Isocortex,1
+1210,SSp-un_2/3,Isocortex,1
+1211,SSp-un_4,Isocortex,1
+1212,SSp-un_5,Isocortex,1
+1213,SSp-un_6a,Isocortex,1
+1214,SSp-un_6b,Isocortex,1
+1215,SSs,Isocortex,1
+1216,SSs_1,Isocortex,1
+1217,SSs_2/3,Isocortex,1
+1218,SSs_4,Isocortex,1
+1219,SSs_5,Isocortex,1
+1220,SSs_6a,Isocortex,1
+1221,SSs_6b,Isocortex,1
+1222,SSs-c,Isocortex,1
+1223,SSs-r,Isocortex,1
+1224,st,fiber tracts,7
+1225,step,fiber tracts,7
+1226,stf,fiber tracts,7
+1227,STN,Interbrain,4
+1228,stp,fiber tracts,7
+1229,STR,Cerebral Nuclei,3
+1230,STRd,Cerebral Nuclei,3
+1231,STRv,Cerebral Nuclei,3
+1232,sttl,fiber tracts,7
+1233,sttv,fiber tracts,7
+1234,SUB,Cortex,2
+1235,SUBd,Cortex,2
+1236,SUBd_m,Cortex,2
+1237,SUBd_sp,Cortex,2
+1238,SUBd_sr,Cortex,2
+1239,SUBd-m,Cortex,2
+1240,SUBd-sp,Cortex,2
+1241,SUBd-sr,Cortex,2
+1242,SUBdd,Cortex,2
+1243,SUBdv,Cortex,2
+1244,SubG,Interbrain,4
+1245,SUBv,Cortex,2
+1246,SUBv_m,Cortex,2
+1247,SUBv_sp,Cortex,2
+1248,SUBv_sr,Cortex,2
+1249,SUBv-m,Cortex,2
+1250,SUBv-sp,Cortex,2
+1251,SUBv-sr,Cortex,2
+1252,SUBvv,Cortex,2
+1253,SUM,Interbrain,4
+1254,SUM_l,Interbrain,4
+1255,SUM_m,Interbrain,4
+1256,SUMl,Interbrain,4
+1257,SUMm,Interbrain,4
+1258,sup,fiber tracts,7
+1259,supa,fiber tracts,7
+1260,supd,fiber tracts,7
+1261,supv,fiber tracts,7
+1262,SUT,Hindbrain,6
+1263,SUV,Hindbrain,6
+1264,sV,NA,9
+1265,svp,fiber tracts,7
+1266,tb,fiber tracts,7
+1267,tct,fiber tracts,7
+1268,TEa,Isocortex,1
+1269,TEa_1,Isocortex,1
+1270,TEa_2/3,Isocortex,1
+1271,TEa_4,Isocortex,1
+1272,TEa_5,Isocortex,1
+1273,TEa_6a,Isocortex,1
+1274,TEa_6b,Isocortex,1
+1275,TEa-c,Isocortex,1
+1276,TEa-r,Isocortex,1
+1277,TH,Interbrain,4
+1278,TM,Interbrain,4
+1279,TM_d,Interbrain,4
+1280,TM_v,Interbrain,4
+1281,TMd,Interbrain,4
+1282,TMv,Interbrain,4
+1283,tn,fiber tracts,7
+1284,tp,fiber tracts,7
+1285,TR,Cortex,2
+1286,TR_1,Cortex,2
+1287,TR_2,Cortex,2
+1288,TR_3,Cortex,2
+1289,TRN,Hindbrain,6
+1290,TRS,Cerebral Nuclei,3
+1291,ts,fiber tracts,7
+1292,tsp,fiber tracts,7
+1293,tspc,fiber tracts,7
+1294,tspd,fiber tracts,7
+1295,TT,Cortex,2
+1296,TTd,Cortex,2
+1297,TTd_1,Cortex,2
+1298,TTd_2,Cortex,2
+1299,TTd_3,Cortex,2
+1300,TTd_4,Cortex,2
+1301,ttp,fiber tracts,7
+1302,TTv,Cortex,2
+1303,TTv_1,Cortex,2
+1304,TTv_2,Cortex,2
+1305,TTv_3,Cortex,2
+1306,TU,Interbrain,4
+1307,uf,fiber tracts,7
+1308,UVU,Cerebellar Cortex,8
+1309,UVU_gr,Cerebellar Cortex,8
+1310,UVU_mo,Cerebellar Cortex,8
+1311,V,Hindbrain,6
+1312,V3,Interbrain,4
+1313,V4,Interbrain,4
+1314,V4r,Interbrain,4
+1315,VAL,Interbrain,4
+1316,vc,fiber tracts,7
+1317,VCO,Hindbrain,6
+1318,VENT,Interbrain,4
+1319,VERM,Cerebellar Cortex,8
+1320,vhc,fiber tracts,7
+1321,VI,Hindbrain,6
+1322,VII,Hindbrain,6
+1323,VIIIn,fiber tracts,7
+1324,VIIn,fiber tracts,7
+1325,VIn,fiber tracts,7
+1326,VIS,Isocortex,1
+1327,VISal,Isocortex,1
+1328,VISal_1,Isocortex,1
+1329,VISal_2/3,Isocortex,1
+1330,VISal_4,Isocortex,1
+1331,VISal_5,Isocortex,1
+1332,VISal_6a,Isocortex,1
+1333,VISal_6b,Isocortex,1
+1334,VISam,Isocortex,1
+1335,VISam_1,Isocortex,1
+1336,VISam_2/3,Isocortex,1
+1337,VISam_4,Isocortex,1
+1338,VISam_5,Isocortex,1
+1339,VISam_6a,Isocortex,1
+1340,VISam_6b,Isocortex,1
+1341,VISC,Isocortex,1
+1342,VISC_1,Isocortex,1
+1343,VISC_2/3,Isocortex,1
+1344,VISC_4,Isocortex,1
+1345,VISC_5,Isocortex,1
+1346,VISC_6a,Isocortex,1
+1347,VISC_6b,Isocortex,1
+1348,VISC-c,Isocortex,1
+1349,VISC-r,Isocortex,1
+1350,VISl,Isocortex,1
+1351,VISl_1,Isocortex,1
+1352,VISl_2/3,Isocortex,1
+1353,VISl_4,Isocortex,1
+1354,VISl_5,Isocortex,1
+1355,VISl_6a,Isocortex,1
+1356,VISl_6b,Isocortex,1
+1357,VISp,Isocortex,1
+1358,VISp_1,Isocortex,1
+1359,VISp_2/3,Isocortex,1
+1360,VISp_4,Isocortex,1
+1361,VISp_5,Isocortex,1
+1362,VISp_6a,Isocortex,1
+1363,VISp_6b,Isocortex,1
+1364,VISpl,Isocortex,1
+1365,VISpl_1,Isocortex,1
+1366,VISpl_2/3,Isocortex,1
+1367,VISpl_4,Isocortex,1
+1368,VISpl_5,Isocortex,1
+1369,VISpl_6a,Isocortex,1
+1370,VISpl_6b,Isocortex,1
+1371,VISpm,Isocortex,1
+1372,VISpm_1,Isocortex,1
+1373,VISpm_2/3,Isocortex,1
+1374,VISpm_4,Isocortex,1
+1375,VISpm_5,Isocortex,1
+1376,VISpm_6a,Isocortex,1
+1377,VISpm_6b,Isocortex,1
+1378,VISrl,Isocortex,1
+1379,VL,Interbrain,4
+1380,VLPO,Interbrain,4
+1381,vlt,fiber tracts,7
+1382,VM,Interbrain,4
+1383,VMH,Interbrain,4
+1384,VMH_a,Interbrain,4
+1385,VMH_c,Interbrain,4
+1386,VMH_dm,Interbrain,4
+1387,VMH_vl,Interbrain,4
+1388,VMHa,Interbrain,4
+1389,VMHc,Interbrain,4
+1390,VMHdm,Interbrain,4
+1391,VMHvl,Interbrain,4
+1392,Vn,fiber tracts,7
+1393,VNC,Hindbrain,6
+1394,von,fiber tracts,7
+1395,VP,Interbrain,4
+1396,VPL,Interbrain,4
+1397,VPL_pc,Interbrain,4
+1398,VPLpc,Interbrain,4
+1399,VPM,Interbrain,4
+1400,VPM_pc,Interbrain,4
+1401,VPMpc,Interbrain,4
+1402,vrt,fiber tracts,7
+1403,VS,NA,9
+1404,vsp,fiber tracts,7
+1405,VTA,Midbrain,5
+1406,vtd,fiber tracts,7
+1407,VTN,Midbrain,5
+1408,vVIIIn,fiber tracts,7
+1409,x,Hindbrain,6
+1410,X,NA,9
+1411,XII,Hindbrain,6
+1412,XIIn,fiber tracts,7
+1413,XIn,fiber tracts,7
+1414,Xn,fiber tracts,7
+1415,y,Hindbrain,6
+1416,Y,NA,9
+1417,z,Hindbrain,6
+1418,ZI,Interbrain,4
+1419,ZI_A13,Interbrain,4
+1420,ZI_FF,Interbrain,4
+1421,6b,Isocortex,1
