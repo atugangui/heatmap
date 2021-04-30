@@ -1,0 +1,32 @@
+name: Run caseTracker.py
+    
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: Setup Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas
+          pip install seaborn
+          pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+      - name: Execute .py script # run the run.py to get the latest data
+        run: |
+          python seaborn_heatmap_all_regions.py
+      - name: Commit files
+        id: commit
+        run: |
+          git config --global user.name "tugangui"
+          git config --global user.email "tugangui@g.ucla.edu"
+          git add *
+          git commit -m "New heatmaps"
+          git push
